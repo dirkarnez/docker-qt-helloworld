@@ -1,1 +1,2 @@
-> docker pull qbsbuild/qbsdev:windowsservercore-5.15.0_1.18.2-0
+- `docker pull qbsbuild/qbsdev:windowsservercore-5.15.0_1.18.2-0`
+- [qbs/qbs: Modern build tool for software projects](https://github.com/qbs/qbs)
